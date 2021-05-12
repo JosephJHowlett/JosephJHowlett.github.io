@@ -29,8 +29,9 @@ github_username:  JosephJHowlett
 name: Joseph Howlett
 
 # Build settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+theme: minima
+#theme: minimal-mistakes-jekyll
+#minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-feed
 
