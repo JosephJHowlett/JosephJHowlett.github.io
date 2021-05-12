@@ -19,6 +19,7 @@ gem "github-pages", "~> 214", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem 'jekyll-remote-theme'
 end
 gem "jekyll-include-cache", group: :jekyll_plugins
 
