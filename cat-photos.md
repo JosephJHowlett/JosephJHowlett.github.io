@@ -17,11 +17,3 @@ permalink: /cat-photos/
 <a href="/assets/images/muon/IMG_5563.JPG"><img src="/assets/images/muon/IMG_5563.JPG" alt="drawing" width="300"/></a>
 <a href="/assets/images/muon/IMG_6073.JPG"><img src="/assets/images/muon/IMG_6073.JPG" alt="drawing" width="300"/></a>
 <a href="/assets/images/muon/IMG_6649.JPG"><img src="/assets/images/muon/IMG_6649.JPG" alt="drawing" width="300"/></a>
-<a href="/assets/images/muon/img205.jpeg"><img src="/assets/images/muon/img205.jpeg" alt="drawing" width="300"/></a>
-
-
-
-
-
-
-
