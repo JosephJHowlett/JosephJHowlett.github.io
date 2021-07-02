@@ -6,6 +6,8 @@ layout: single
 author_profile: true
 
 title: Photos of Muon
+
+permalink: /cat-photos/
 ---
 
 <a href="/assets/images/muon/IMG_2153.JPG"><img src="/assets/images/muon/IMG_2153.JPG" alt="drawing" width="300"/></a>
