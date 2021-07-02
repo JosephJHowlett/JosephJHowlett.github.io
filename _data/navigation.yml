@@ -1,0 +1,7 @@
+main:
+#  - title: "Projects"
+#    url: /projects/
+  - title: "Public Links"
+    url: /public-links/
+  - title: "Cat Photos"
+    url: /cat-photos/
