@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 
 title: Public Links
+permalink: /public-links/
 ---
 
   * [ORCID Page](https://orcid.org/0000-0002-4825-438X)
