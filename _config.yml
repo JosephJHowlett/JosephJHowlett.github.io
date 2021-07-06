@@ -22,7 +22,7 @@ github_username:  JosephJHowlett
 author:
   name: "Joseph Howlett"
   avatar: "/assets/images/IMG_8046.JPG"
-  bio: "*I am a dark matter hunter at Columbia University*" # Note: Markdown is allowed
+  bio: "*I am a dark matter researcher in the Columbia University Physics Department*" # Note: Markdown is allowed
   location: "New York, NY"
   links:
     - label: "GitHub"
