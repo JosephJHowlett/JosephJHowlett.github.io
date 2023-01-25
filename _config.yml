@@ -37,8 +37,8 @@ atom_feed:
 
 
 # Build settings
-theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes@4.22.0"
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin: "dirt"
 plugins:
   - jekyll-feed
