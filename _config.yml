@@ -23,7 +23,7 @@ author:
   name: "Joseph Howlett"
   avatar: "/assets/images/IMG_1208.jpg"
   bio: "*I am a particle physicist and science writer at Stanford University*" # Note: Markdown is allowed
-  location: "New York, NY"
+  location: "Stanford, CA"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

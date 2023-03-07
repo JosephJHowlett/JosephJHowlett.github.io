@@ -3,5 +3,5 @@ main:
 #    url: /projects/
   - title: "Public Links"
     url: /public-links/
-  - title: "Cat Photos"
-    url: /cat-photos/
+#  - title: "Cat Photos"
+#    url: /cat-photos/
