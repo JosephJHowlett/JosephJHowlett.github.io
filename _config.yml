@@ -25,6 +25,9 @@ author:
   bio: "*Freelance science writer and particle physicist at Stanford University*" # Note: Markdown is allowed
   location: "Stanford, CA"
   links:
+    - label: "JosephJHowlett@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:JosephJHowlett@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JosephJHowlett"
