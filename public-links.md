@@ -12,10 +12,6 @@ permalink: /public-links/
   * [Particlebites: "A hint of CEvNS heaven at a nuclear reactor"](https://www.particlebites.com/?p=9655)
   * [Astrobites: "Exoplanets are hot right now – will dark matter make them hotter?"](https://astrobites.org/2022/03/18/exoplanets-are-hot-right-now-will-dark-matter-make-them-hotter/)
 
-## Press
-  * [Newsweek Video](https://www.youtube.com/watch?v=NVXLuLEXTfQ)
-  * [Physics Magazine Article](https://physics.aps.org/articles/v14/96)
-
 ## Academic
   * [Google Scholar Page](https://scholar.google.com/citations?user=ht7EaVwAAAAJ&hl=en)
   * [ORCID Page](https://orcid.org/0000-0002-4825-438X)
