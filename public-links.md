@@ -7,7 +7,7 @@ permalink: /public-links/
 ---
 
 ## Science Writing
-  * [Mental Floss: 9 Explosive Facts About the Manhattan Project](/Users/josephhowlett/jobs/website/JosephJHowlett.github.io)
+  * [Mental Floss: "9 Explosive Facts About the Manhattan Project"](/Users/josephhowlett/jobs/website/JosephJHowlett.github.io)
   * [Scientific American: "Dark Matter Hunters Need Fresh Answers"](https://www.scientificamerican.com/article/dark-matter-hunters-need-fresh-answers/)
   * [Mental Floss: "How Mammoth Poop Is Changing What We Know About Their Extinction"](https://www.mentalfloss.com/posts/mammoth-edna-extinction-controversy)
   * [Gizmodo: "New Dark Matter Theory Says a ‘Dark Big Bang’ Created the Hidden Universe"](https://gizmodo.com/dark-matter-big-bang-hidden-universe-physics-1850199134)
