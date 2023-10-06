@@ -21,5 +21,5 @@ permalink: /public-links/
   * [INSPIRE Page](https://inspirehep.net/authors/1601194)
 
 ## Fun
-  * [PlayDate](https://www.playdate.vip)
+  * [PlayDate: Share links between Spotify and Apple Music](https://www.playdate.vip)
   * [Short Film: "Up to Here"](https://www.youtube.com/watch?v=dAX8F6a3Rl4)
