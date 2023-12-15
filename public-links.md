@@ -7,6 +7,7 @@ permalink: /public-links/
 ---
 
 ## Science Writing
+  * [Science: "Garter snakes make friends, organize their society around females"](https://www.science.org/content/article/garter-snakes-make-friends-organize-their-society-around-females)
   * [San Francisco Chronicle: "Scientists discover a hidden stash of carbon off California coast"](https://www.sfchronicle.com/climate/article/carbon-stash-california-oceans-18452871.php)
   * [SLAC National Accelerator Laboratory: "Researchers aim to make cheaper fuel cells a reality"](https://www6.slac.stanford.edu/news/2023-11-13-researchers-aim-make-cheaper-fuel-cells-reality)
   * [SLAC National Accelerator Laboratory: "Harold Hwang awarded 2024 McGroddy Prize for discovering exotic new materials"](https://www6.slac.stanford.edu/news/2023-11-01-harold-hwang-awarded-2024-mcgroddy-prize-discovering-exotic-new-materials)
