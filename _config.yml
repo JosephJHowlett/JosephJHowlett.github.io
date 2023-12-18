@@ -35,7 +35,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joseph-howlett-a180471b7/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?user=ht7EaVwAAAAJ&hl=en"
 
 atom_feed:
