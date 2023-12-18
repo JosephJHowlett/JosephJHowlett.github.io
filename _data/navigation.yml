@@ -1,7 +1,9 @@
 main:
 #  - title: "Projects"
 #    url: /projects/
-  - title: "Published Work"
-    url: /public-links/
+  - title: "Science Writing"
+    url: /science-writing/
+  - title: "Other Projects"
+    url: /other-projects/
 #  - title: "Cat Photos"
 #    url: /cat-photos/
