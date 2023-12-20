@@ -6,6 +6,8 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[Eos: "Steamy Bubbles May Control Old Faithful’s Clock"](https://eos.org/articles/steamy-bubbles-may-control-old-faithfuls-clock)
+
 [Science: "Garter snakes make friends, organize their society around females"](https://www.science.org/content/article/garter-snakes-make-friends-organize-their-society-around-females)
 
 [San Francisco Chronicle: "Scientists discover a hidden stash of carbon off California coast"](https://www.sfchronicle.com/climate/article/carbon-stash-california-oceans-18452871.php)
