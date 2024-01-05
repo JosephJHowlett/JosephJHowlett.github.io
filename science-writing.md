@@ -6,9 +6,15 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[SLAC National Accelerator Laboratory: "A day in the life of a mountaintop telescope builder"](https://www6.slac.stanford.edu/news/2024-01-05-day-life-mountaintop-telescope-builder)
+
+[San Jose Mercury News: "Collisions with buildings are killing millions of birds nationwide. A dark-sky movement to save them is sweeping the Bay Area."](https://www.mercurynews.com/2023/12/26/collisions-with-buildings-are-killing-millions-of-birds-nationwide-a-dark-sky-movement-to-save-them-is-sweeping-the-bay-area/)
+
 [Eos: "Steamy Bubbles May Control Old Faithful’s Clock"](https://eos.org/articles/steamy-bubbles-may-control-old-faithfuls-clock)
 
 [Science: "Garter snakes make friends, organize their society around females"](https://www.science.org/content/article/garter-snakes-make-friends-organize-their-society-around-females)
+
+[Mongabay: "Nearly half of the world’s flowering plants face the threat of extinction, study says"](https://news.mongabay.com/2023/12/nearly-half-of-the-worlds-flowering-plants-face-the-threat-of-extinction-study-says/)
 
 [San Francisco Chronicle: "Scientists discover a hidden stash of carbon off California coast"](https://www.sfchronicle.com/climate/article/carbon-stash-california-oceans-18452871.php)
 

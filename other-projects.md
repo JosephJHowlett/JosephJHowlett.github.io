@@ -8,7 +8,7 @@ permalink: /other-projects/
 
 # Playdate
 
-While I was supposed to be writing<img align="right" src="/assets/images/playdate_webapp.png" width="400" style="padding: 0px 0px 0px 10px"> my thesis, I created a webapp to translate "share" links for artists/albums/songs between streaming services (right now only supports Spotify and Apple Music). The idea came from a friend who uses Apple Music (I use Spotify) and could never open the links I sent him. It's a simple backend that interprets the link you give it and uses the Spotify and Apple Music APIs to find the corresponding link within the other service. Check it out at [https://www.playdate.vip](https://www.playdate.vip).
+While I was supposed to be writing<img align="right" src="/assets/images/playdate_webapp.png" width="400" style="padding: 0px 0px 0px 10px"> my thesis, I created a webapp to translate "share" links for artists/albums/songs between streaming services (right now only supports Spotify and Apple Music). I built it in python using Flask, and deployed it with Heroku. The idea came from a friend who uses Apple Music (I use Spotify) and could never open the links I sent him. It's a simple backend that interprets the link you give it and uses the Spotify and Apple Music APIs to find the corresponding link within the other service. Check it out at [https://www.playdate.vip](https://www.playdate.vip).
 
 My friend George Farro made a gorgeous iOS app that communicates with the playdate server so you can easily translate links from your phone and text them to friends:
 
