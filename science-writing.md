@@ -6,6 +6,8 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[Nature: "The Higgs boson is caught in a singular transformation"](https://www.nature.com/articles/d41586-024-00006-x)
+
 [SLAC National Accelerator Laboratory: "A day in the life of a mountaintop telescope builder"](https://www6.slac.stanford.edu/news/2024-01-05-day-life-mountaintop-telescope-builder)
 
 [San Jose Mercury News: "Collisions with buildings are killing millions of birds nationwide. A dark-sky movement to save them is sweeping the Bay Area."](https://www.mercurynews.com/2023/12/26/collisions-with-buildings-are-killing-millions-of-birds-nationwide-a-dark-sky-movement-to-save-them-is-sweeping-the-bay-area/)
