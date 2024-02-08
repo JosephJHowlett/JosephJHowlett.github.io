@@ -6,6 +6,8 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[San Francisco Chronicle: "California’s groundwater decline is ‘scary’ — but one area bucks the trend"](https://www.sfchronicle.com/climate/article/california-groundwater-ranked-globally-18630291.php)
+
 [Nature: "The Higgs boson is caught in a singular transformation"](https://www.nature.com/articles/d41586-024-00006-x)
 
 [SLAC National Accelerator Laboratory: "A day in the life of a mountaintop telescope builder"](https://www6.slac.stanford.edu/news/2024-01-05-day-life-mountaintop-telescope-builder)
