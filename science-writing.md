@@ -6,6 +6,12 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[San Francisco Chronicle: "Scientists say these critical factors will determine how bad California wildfires will be this year"](https://www.sfchronicle.com/weather/article/storms-snowpack-california-wildfires-18930906.php)
+
+[San Francisco Chronicle: "California’s historic storms continue. Here’s how much scientists say it’s being driven by climate change"](https://www.sfchronicle.com/weather/article/california-extreme-storms-18709767.php)
+
+[San Francisco Chronicle: "Here’s why the Bay Area has seen bad air quality recently"](https://www.sfchronicle.com/weather/article/bay-area-air-quality-winter-18680660.php)
+
 [San Francisco Chronicle: "California’s groundwater decline is ‘scary’ — but one area bucks the trend"](https://www.sfchronicle.com/climate/article/california-groundwater-ranked-globally-18630291.php)
 
 [Nature: "The Higgs boson is caught in a singular transformation"](https://www.nature.com/articles/d41586-024-00006-x)

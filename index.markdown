@@ -8,4 +8,4 @@ author_profile: true
 title: About Me
 ---
 
-I'm a science writer and particle physicist currently attending the Science Communication Masters Program at UC Santa Cruz. I got my PhD in physics at Columbia University working on an experiment that tried to find dark matter, then I worked as a Postdoc at Stanford University trying to measure the strength of gravity between microscopic objects. Now I write about all kinds of science as a freelance journalist.
+I’m a science journalist with articles in Scientific American, the San Francisco Chronicle, Nature, Science, and Gizmodo, among other places. I also have a PhD in particle physics, and researched gravity and dark matter at Stanford and Columbia University. I’m currently attending the Science Communication Masters Program at UC Santa Cruz, where I’ll graduate in June 2024.
