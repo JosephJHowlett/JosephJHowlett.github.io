@@ -6,6 +6,12 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[San Francisco Chronicle: "Downtown S.F.’s office buildings are guzzling tons of energy no one is using"](https://www.sfchronicle.com/sf/article/downtown-office-energy-use-19361292.php)
+
+[Nature: "This super-Earth is the first planet confirmed to have a permanent dark side"](https://www.nature.com/articles/d41586-024-00414-z)
+
+[Scientific American: "Orion’s Twin Rogue Planets Inexplicably Blaze with Intense Radio Waves"](https://www.scientificamerican.com/article/orions-twin-rogue-planets-inexplicably-blaze-with-intense-radio-waves/)
+
 [San Francisco Chronicle: "Scientists say these critical factors will determine how bad California wildfires will be this year"](https://www.sfchronicle.com/weather/article/storms-snowpack-california-wildfires-18930906.php)
 
 [San Francisco Chronicle: "California’s historic storms continue. Here’s how much scientists say it’s being driven by climate change"](https://www.sfchronicle.com/weather/article/california-extreme-storms-18709767.php)
