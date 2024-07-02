@@ -6,6 +6,8 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[Lookout Santa Cruz: "What can exoplanets teach us about love? Astrophysicist Melodie Kao on science and what it means to humans"](https://lookout.co/what-can-exoplanets-teach-us-about-love-astrophysicist-melodie-kao-on-science-and-what-it-means-to-humans/)
+
 [San Francisco Chronicle: "Downtown S.F.’s office buildings are guzzling tons of energy no one is using"](https://www.sfchronicle.com/sf/article/downtown-office-energy-use-19361292.php)
 
 [Nature: "This super-Earth is the first planet confirmed to have a permanent dark side"](https://www.nature.com/articles/d41586-024-00414-z)
