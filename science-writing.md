@@ -6,6 +6,12 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[STAT: "Arthritis patients resort to an inconvenient Medicare workaround to avoid pricey drugs"](https://www.statnews.com/2024/08/15/medicare-coverage-gap-arthritis-drugs-humira-xeljanz-infliximab/)
+
+[Quanta Magazine: "The Geometric Tool That Solved Einstein’s Relativity Problem"](https://www.quantamagazine.org/the-geometric-tool-that-solved-einsteins-relativity-problem-20240812/)
+
+[Quanta Magazine (and WIRED): "Physicists Pinpoint the Quantum Origin of the Greenhouse Effect"](https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807/)
+
 [Lookout Santa Cruz: "What can exoplanets teach us about love? Astrophysicist Melodie Kao on science and what it means to humans"](https://lookout.co/what-can-exoplanets-teach-us-about-love-astrophysicist-melodie-kao-on-science-and-what-it-means-to-humans/)
 
 [San Francisco Chronicle: "Downtown S.F.’s office buildings are guzzling tons of energy no one is using"](https://www.sfchronicle.com/sf/article/downtown-office-energy-use-19361292.php)
