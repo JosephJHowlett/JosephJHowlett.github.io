@@ -20,11 +20,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  JosephJHowlett
 
 author:
-#  name: "Joseph Howlett"
+  name: "Joseph Howlett"
 #  avatar: "/assets/images/IMG_1208.jpg"
   avatar: "/assets/images/IMG_0801.jpg"
-  bio: "" # Note: Markdown is allowed
-#  bio: "*Science journalist and particle physicist*" # Note: Markdown is allowed
+#  bio: "" # Note: Markdown is allowed
+  bio: "*Reporter at Scientific American*" # Note: Markdown is allowed
   location: "New York City"
   links:
     - label: "JosephJHowlett@gmail.com"
