@@ -6,6 +6,8 @@ title: Science Writing
 permalink: /science-writing/
 ---
 
+[Articles for Scientific American](https://www.scientificamerican.com/author/joseph-howlett/)
+
 [Articles for Quanta Magazine](https://www.quantamagazine.org/authors/josephhowlett/)
 
 ## Elsewhere
