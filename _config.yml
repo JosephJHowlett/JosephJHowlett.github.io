@@ -25,20 +25,19 @@ author:
   avatar: "/assets/images/IMG_0801.jpg"
 #  bio: "" # Note: Markdown is allowed
   bio: "*Reporter at Scientific American*" # Note: Markdown is allowed
-  location: "New York City"
   links:
-    - label: "JosephJHowlett@gmail.com"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:JosephJHowlett@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JosephJHowlett"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/josephjhowlett/"
+    - label: "Substack"
+      icon: "fa fa-fw fa-bookmark"
+      url: "https://substack.com/@josephjhowlett"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joseph-howlett-a180471b7/"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=ht7EaVwAAAAJ&hl=en"
+    - label: "JosephJHowlett@gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:JosephJHowlett@gmail.com"
 
 atom_feed:
   hide: true
