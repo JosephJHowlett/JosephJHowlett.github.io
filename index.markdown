@@ -5,7 +5,11 @@
 layout: single
 author_profile: true
 
-title: About Me
 ---
+Hi, I'm Joe!
 
-I’m a science journalist and former astroparticle physicist now working as a Staff Reporter at Scientific American. Before that I was the Math Staff Writer at Quanta Magazine, and before that I wrote for places like the New York Times, the San Francisco Chronicle, Nature, Science, and Gizmodo. I have an M.S. in Science Communication from UC Santa Cruz, and a physics Ph.D. from Columbia University.
+I used to be a particle physicist. Now I'm a science journalist. Currently, I'm a Senior Reporter at Scientific American, writing mainly about physics and math. Before that I was the Math Staff Writer at Quanta Magazine, and before that I wrote for places like the New York Times, the San Francisco Chronicle, Nature, Science, and Gizmodo. I have an M.S. in Science Communication from UC Santa Cruz, and a physics Ph.D. from Columbia University.
+
+
+Enter your email for monthly updates on what I'm up to:
+<iframe src="https://josephjhowlett.substack.com/embed?transparent=1" width="500" height="150" style="border: 0; background: transparent" frameborder="0" scrolling="no"></iframe>{: .align-center}
